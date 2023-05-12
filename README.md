@@ -8,13 +8,8 @@ This is a basic Express API demo that demonstrates how to create GET and POST en
 
    ```shell
    git clone https://github.com/your-username/express-api-demo.git
-
    cd express-api-demo
-   
    npm install
-   
-   
-
     ```
 2. Start the server:
    ```shell
